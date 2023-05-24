@@ -1,0 +1,20 @@
+version: '3'
+
+services:
+  student_regini:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./Data:/app/data/patch
+    tty: true
+    stdin_open: true
+
+  student_statin:
+    build:
+      context: ../componenttwo
+      dockerfile: Dockerfile
+    volumes:
+      - ./Data:/app/data/patch
+    tty: true
+    stdin_open: true
