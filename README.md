@@ -48,9 +48,6 @@ This component repository contains the code for the first component of the stude
 For the second component of this student registration system, which provides statistics related to student registration, please refer to the [Second Component Repository](https://github.com/PeterIsaacc/comp-2).
 
 ---
-*Note: In order to access the second component repository, please visit [https://github.com/PeterIsaacc/comp-2](https://github.com/PeterIsaacc/comp-2).*
-
-
 ### To run Docker-Compose follow these steps:
 * Clone comp1 repo (this repo)
 * Clone comp2 repo (link: https://github.com/PeterIsaacc/comp-2)
@@ -69,3 +66,4 @@ For the second component of this student registration system, which provides sta
 ## PS USE sudo before any command if using linux || winpty before any command if windows
 
 ##
+*Note: In order to access the second component repository, please visit [https://github.com/PeterIsaacc/comp-2](https://github.com/PeterIsaacc/comp-2).*
