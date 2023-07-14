@@ -45,12 +45,12 @@ This component repository contains the code for the first component of the stude
       ```
    4. Assuming the user wants to enter the students' data from the `1_verified.csv` file, enter `1_verified.csv`.
 
-For the second component of this student registration system, which provides statistics related to student registration, please refer to the [Second Component Repository](https://github.com/PeterIsaacc/comp-2).
+For the second component of this student registration system, which provides statistics related to student registration, please refer to the [Second Component Repository](https://github.com/PeterIsaacc/Student-Registration-System-comp-2).
 
 ---
 ### To run Docker-Compose follow these steps:
 * Clone comp1 repo (this repo)
-* Clone comp2 repo (link: https://github.com/PeterIsaacc/comp-2)
+* Clone comp2 repo (link: https://github.com/PeterIsaacc/Student-Registration-System-comp-2)
 * Put the repos into the same directory
 * Run this command: docker-compose up -d
 * then this command: docker ps
