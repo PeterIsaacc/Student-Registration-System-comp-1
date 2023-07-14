@@ -66,4 +66,4 @@ For the second component of this student registration system, which provides sta
 ## PS USE sudo before any command if using linux || winpty before any command if windows
 
 ##
-*Note: In order to access the second component repository, please visit [https://github.com/PeterIsaacc/comp-2](https://github.com/PeterIsaacc/comp-2).*
+*Note: In order to access the second component repository, please visit [https://github.com/PeterIsaacc/comp-2](https://github.com/PeterIsaacc/Student-Registration-System-comp-2).*
